@@ -1,0 +1,5 @@
+name: PrismaLogin
+main: com.br.gabrielsilva.prismamc.login.Login
+author: BiielBr
+version: 0.0.1
+softdepend: [PrismaCommons]
